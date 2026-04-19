@@ -1,0 +1,8 @@
+GET http://localhost:3000/api/posts/69e53060b0bebc8fdd9db176
+Content-Type: application/json
+
+{
+  "title": "My First Blog Post (Updated)",
+  "content": "Updated content from VS Code test.",
+  "author": "Student"
+}
